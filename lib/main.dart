@@ -19,8 +19,6 @@ void main() {
 //     return  MaterialApp(
 //         title: 'Test task',
 //         home: NativeStateManagement(),
-//
-//       ),
 //     );
 //   }
 // }
